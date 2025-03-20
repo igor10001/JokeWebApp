@@ -1,0 +1,45 @@
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.vssscc
+*.cache
+*.ncb
+*.aps
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.dbmdl
+*.pdb
+*.log
+*.tlog
+*.lastbuildstate
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+
+# Publish outputs
+wwwroot/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Mac OS files
+.DS_Store
+
+# Secrets and configurations
+appsettings.Development.json
+secrets.json
